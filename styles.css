@@ -28,6 +28,40 @@ html,body{
 }
 
 #btn-1{
+    background-color: rgb(92, 145, 229);
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+   margin-top: 20%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+    
+
+#btn-2{
+    background-color: rgb(153, 63, 98);
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+   margin-top: 20%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+#btn-1{
     color: white;
     padding: 12px 24px;
     font-size: 18px;
